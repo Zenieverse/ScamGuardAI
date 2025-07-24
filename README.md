@@ -1,3 +1,34 @@
+{
+  "version": 1,
+  "dfx": "0.22.0",
+  "canisters": {
+    "scamguardai_backend": {
+      "type": "motoko",
+      "main": "src/scamguardai_backend/main.mo"
+    },
+    "scamguardai_frontend": {
+      "type": "assets",
+      "dependencies": [
+        "scamguardai_backend"
+      ],
+      "source": [
+        "src/scamguardai_frontend/dist/"
+      ]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  }
+}
 Inspiration: https://mirror.xyz/0xa81Da41fE8B5bB2ed22d2b209e7f97d3B7757a02 
 # ScamGuardAI https://gemini.google.com/share/a7818ee56795; https://vimeo.com/1099261111?share=copy#t=0
 Tech Stack Selection https://docs.google.com/document/d/1P922CCFlrf2p7w10aZYC5B3SlwHTEIIU8G88Sb0emPI/edit?usp =drivesdk

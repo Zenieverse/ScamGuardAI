@@ -21,6 +21,7 @@
       "args": "",
       "packtool": ""
     }
+    
   },
   "networks": {
     "local": {
@@ -28,6 +29,53 @@
       "type": "ephemeral"
     }
   }
+}
+/** @type {import('tailwindcss').Config} */
+     module.exports = {
+       content: ["./index.html"],
+       theme: {
+         extend: {},
+       },
+       plugins: [],
+     }
+     import Text "mo:base/Text";
+import Nat "mo:base/Nat";
+import List "mo:base/List";
+import Time "mo:base/Time";
+
+actor ScamGuardAI {
+  type Scam = {
+    id : Text;
+    title : Text;
+    category : Text;
+    description : Text;
+    keywords : [Text];
+    era : Text;
+    lastUpdated : Text;
+  };
+
+  stable var scams : List.List<Scam> = List.nil<Scam>();
+  stable var nextId : Nat = 0;
+
+  public func reportScam(title : Text, category : Text, description : Text, keywords : [Text]) : async { ok : Text } {
+    let id = "scam" # Nat.toText(nextId);
+    nextId += 1;
+    let newScam : Scam = {
+      id = id;
+      title = title;
+      category = category;
+      description = description;
+      keywords = keywords;
+      era = "User Reported";
+      lastUpdated = Time.now() / 1_000_000_000 : Text; // Convert nanoseconds to seconds
+    };
+    scams := List.push(newScam, scams);
+    { ok = id }
+  };
+
+  public query func getScams() : async [Scam] {
+    List.toArray(scams)
+  };
 }
 Inspiration: https://mirror.xyz/0xa81Da41fE8B5bB2ed22d2b209e7f97d3B7757a02 
 # ScamGuardAI https://gemini.google.com/share/a7818ee56795; https://vimeo.com/1099261111?share=copy#t=0

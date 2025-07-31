@@ -1,3 +1,35 @@
+dfx json file
+{
+  "version": 1,
+  "dfx": "0.22.0",
+  "canisters": {
+    "scamguardai_backend": {
+      "type": "motoko",
+      "main": "src/scamguardai_backend/main.mo"
+    },
+    "scamguardai_frontend": {
+      "type": "assets",
+      "dependencies": [
+        "scamguardai_backend"
+      ],
+      "source": [
+        "src/scamguardai_frontend/dist/"
+      ]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  }
+}
 {
   "version": 1,
   "dfx": "0.22.0",

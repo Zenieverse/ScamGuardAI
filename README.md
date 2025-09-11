@@ -8,10 +8,15 @@ https://gemini.google.com/share/a7818ee56795;
 
 # ScamGuardAI  
 https://vimeo.com/1099261111?share=copy#t=0
+
 Tech Stack Selection https://docs.google.com/document/d/1P922CCFlrf2p7w10aZYC5B3SlwHTEIIU8G88Sb0emPI/edit?usp =drivesdk
+
 Diagram https://docs.google.com/document/d/1QGWqF1MC2eYkWP66FvoAEPDL6dOlkm5BdpMEz_MflC0/edi t?usp=drivesdk 
+
 Cost estimate https://drive.google.com/file/d/1r9tl3t3KnjoK_x1ZPwogbDbJnSKD6chq/view?usp=drivesdk 
+
 Impact Potential and Limitations https://docs.google.com/document/d/1R_1v_IovsJs-ZhD8IfXJKXmZux8SHnyLhd5opIvy80o/edit?usp=drivesdk 
+
 Ethical & Security Considerations https://docs.google.com/document/d/15VLq8ANkJV1qDaX_U7lFIGr1ZXGttkVug09NzXcuSiQ/edit?usp=drivesdk
 
 import React, { useState, useEffect, createContext, useContext } from 'react';

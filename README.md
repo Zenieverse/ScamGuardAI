@@ -1,6 +1,11 @@
 Inspiration: https://mirror.xyz/0xa81Da41fE8B5bB2ed22d2b209e7f97d3B7757a02 
+
 https://poe.com/ScamGuardAI.V01 
+
+https://bbd4d9c2-26dd-45a3-aaee-983d9eba2f4c-00-ejx03e95nl0d.janeway.replit.dev/#
+
 https://gemini.google.com/share/a7818ee56795;
+
 # ScamGuardAI  
 https://vimeo.com/1099261111?share=copy#t=0
 Tech Stack Selection https://docs.google.com/document/d/1P922CCFlrf2p7w10aZYC5B3SlwHTEIIU8G88Sb0emPI/edit?usp =drivesdk

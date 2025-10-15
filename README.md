@@ -6,17 +6,7 @@ https://vimeo.com/1099261111?share=copy#t=0
 
 https://bbd4d9c2-26dd-45a3-aaee-983d9eba2f4c-00-ejx03e95nl0d.janeway.replit.dev/#
 
-https://gemini.google.com/share/a7818ee56795;
-
-# ScamGuardAI 
-
-ScamGuardAI aims to be the world’s first truly adaptive, omni-channel shield against the full spectrum of digital fraud—from classic phishing links and social engineering to AI-cloned voices and deep-fake visuals. It leverages multi-modal AI (NLP, computer vision, behavior analytics) to detect, prevent, and neutralize emerging threats before they harm users.
-It envisions a future where:
-Every individual and organization is protected in real time across emails, social media, messaging apps, voice/video, and AI-generated content.
-Defenses don’t lag threats — the system learns continuously from new scam patterns, evolving with the adversaries.
-Reporting and community input feed directly into model updates, making protection crowdsourced, transparent, and collective.
-Trust is restored online: people interact freely, engage in web3, chatbots, and digital platforms without fear of impersonation, manipulation, or fraud.
-ScamGuardAI isn’t just a tool — it’s the backbone of digital trust for the next era.
+https://gemini.google.com/share/a7818ee56795
 
 Tech Stack Selection https://docs.google.com/document/d/1P922CCFlrf2p7w10aZYC5B3SlwHTEIIU8G88Sb0emPI/edit?usp =drivesdk
 
@@ -27,6 +17,17 @@ Cost estimate https://drive.google.com/file/d/1r9tl3t3KnjoK_x1ZPwogbDbJnSKD6chq/
 Impact Potential and Limitations https://docs.google.com/document/d/1R_1v_IovsJs-ZhD8IfXJKXmZux8SHnyLhd5opIvy80o/edit?usp=drivesdk 
 
 Ethical & Security Considerations https://docs.google.com/document/d/15VLq8ANkJV1qDaX_U7lFIGr1ZXGttkVug09NzXcuSiQ/edit?usp=drivesdk
+
+
+# ScamGuardAI 
+
+ScamGuardAI aims to be the world’s first truly adaptive, omni-channel shield against the full spectrum of digital fraud—from classic phishing links and social engineering to AI-cloned voices and deep-fake visuals. It leverages multi-modal AI (NLP, computer vision, behavior analytics) to detect, prevent, and neutralize emerging threats before they harm users.
+It envisions a future where:
+Every individual and organization is protected in real time across emails, social media, messaging apps, voice/video, and AI-generated content.
+Defenses don’t lag threats — the system learns continuously from new scam patterns, evolving with the adversaries.
+Reporting and community input feed directly into model updates, making protection crowdsourced, transparent, and collective.
+Trust is restored online: people interact freely, engage in web3, chatbots, and digital platforms without fear of impersonation, manipulation, or fraud.
+ScamGuardAI isn’t just a tool — it’s the backbone of digital trust for the next era.
 
 🛡️ ScamGuardAI — The AI-Powered Shield for Digital Trust
 🔍 Problem

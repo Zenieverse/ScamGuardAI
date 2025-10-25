@@ -18,6 +18,8 @@ Impact Potential and Limitations https://docs.google.com/document/d/1R_1v_IovsJs
 
 Ethical & Security Considerations https://docs.google.com/document/d/15VLq8ANkJV1qDaX_U7lFIGr1ZXGttkVug09NzXcuSiQ/edit?usp=drivesdk
 
+Pitchdeck https://drive.google.com/file/d/1ZA4AoQzi_iXwSI8T_XYsz1jeLEPcibmq/view?usp=drivesdk
+
 
 # ScamGuardAI 
 
@@ -30,26 +32,34 @@ Trust is restored online: people interact freely, engage in web3, chatbots, and 
 ScamGuardAI isn’t just a tool — it’s the backbone of digital trust for the next era.
 
 🛡️ ScamGuardAI — The AI-Powered Shield for Digital Trust
+
 🔍 Problem
 The digital world faces an explosion of scams:
 Phishing, fake KYC requests, AI-cloned voices, and deepfake impersonations are spreading faster than humans or legacy tools can detect.
 Over $10B+ in losses globally each year from digital scams.
 Users lack real-time, cross-platform protection — most tools only react after damage is done.
+
 💡 Solution
 ScamGuardAI is an AI-driven fraud intelligence network that:
 Detects and prevents scams in real time using multimodal AI (text, image, voice, and behavioral analysis).
 Integrates seamlessly with email, chat, web3 wallets, and social apps.
 Employs crowdsourced threat reporting to continuously retrain detection models.
 Provides enterprise-grade APIs and a browser/extension app for individuals.
+
 🚀 Vision
 To become the universal AI defense layer that protects digital citizens and organizations across every platform and device — building a safer, scam-free digital ecosystem.
 “Our mission is to make digital trust autonomous, adaptive, and accessible to everyone.”
+
 ⚙️ Core Technologies
 Large Language Models (LLMs) for phishing intent and context analysis
 Vision AI for deepfake and image-based scam detection
 Voiceprint AI for audio impersonation detection
 Blockchain traceability layer for verifying message or sender authenticity
 Crowdsourced feedback engine for continuous model reinforcement
+
+<img width="1536" height="1024" alt="IMG_1315" src="https://github.com/user-attachments/assets/940af016-72fd-4121-b1a7-352b169bcb28" />
+
+
 🌍 Impact
 Protects users, companies, and governments from online fraud
 Builds public trust in Web3, fintech, and AI ecosystems
